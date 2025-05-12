@@ -18,7 +18,7 @@ I'm an aspiring cybersecurity analyst dedicated to learning how to protect syste
 - Common threat actors (hackers, insiders, etc.)
 - Methods of cyber attacks (phishing, social engineering, etc.)
 - Past attacks (Morris worm, loveletter attack, etc.)
-- Tools (SIEM tools, IDS , etc.)
+- Tools (SIEM tools, playbooks, etc.)
 - Intro to risk and frameworks
 
 ---
