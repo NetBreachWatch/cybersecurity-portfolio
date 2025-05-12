@@ -11,7 +11,7 @@ I'm an aspiring cybersecurity analyst dedicated to learning how to protect syste
 
 ## Course Progress
 
-### Course 1: Foundations of Cybersecurity ✅
+### Course 1: Foundations of Cybersecurity 
 *Key Topics Learned:*
 - CIA Triad: Confidentiality, Integrity, Availability
 - Cybersecurity roles (SOC Analyst, Threat Hunter, etc.)
